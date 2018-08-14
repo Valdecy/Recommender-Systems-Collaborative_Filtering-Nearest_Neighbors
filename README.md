@@ -1,5 +1,5 @@
 # Collaborative Filtering - Nearest Neighbors
-Collaborative Filtering: This approach, build a model from past behaviors, comparing items or users trough ratings, and in this case the Nearest Neighbors (memory based) is used to calculate the k-top similar users/items (cosine or pearson similarity). The function returns, the k-top similar users/items, the mean and the similarity matrix.
+Collaborative Filtering: This approach builds a model from past behaviors, comparing items or users trough ratings, and in this case the Nearest Neighbors (memory based) is used to calculate the k-top similar users/items (cosine or pearson similarity). The function returns, the k-top similar users/items, the mean and the similarity matrix.
 
 * Xdata = Dataset Attributes. A matrix with users ratings about a set of items.
 
