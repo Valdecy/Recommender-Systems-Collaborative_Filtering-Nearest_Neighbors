@@ -16,3 +16,6 @@ Collaborative Filtering: This approach builds a model from past behaviors, compa
 * cut_off = Value between -1 and 1 that filter similar item according to a certain threshold value. The default value is -0.9999.
 
 * Finnaly a prediction function - prediction( ) - is also included.
+
+# Recommender System Library
+Try [pyRecommenderSystem](https://github.com/Valdecy/pyRecommenderSystem): A Recommender System Library
